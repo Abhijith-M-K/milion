@@ -42,7 +42,6 @@
 }
 .btn:hover {
   background: linear-gradient(90deg, #5fdced -13.32%, #81a2f7 105.84%);
-  
 }
 
 .navbar {
@@ -306,29 +305,28 @@ li {
   font-weight: 100;
   font-size: 27px;
 }
-.section_four_container_box_list{
+.section_four_container_box_list {
   display: flex;
-
 }
-.section_four_container_box_list li{
+.section_four_container_box_list li {
   display: flex;
   width: 229px;
   font-size: 10px;
   align-items: center;
-  margin-left:30px ;
+  margin-left: 30px;
 }
-.section_four_container_box_two{
+.section_four_container_box_two {
   display: flex;
   width: 100px;
   height: 50px;
-  background: linear-gradient(90deg, #FFDB00 -13.32%, #FF8900 105.84%);
+  background: linear-gradient(90deg, #ffdb00 -13.32%, #ff8900 105.84%);
   border-radius: 0px 0px 30px 30px;
 }
-.section_four_container_box_two div{
+.section_four_container_box_two div {
   display: flex;
- 
-width: 50px;
-margin-top: 50px;
+
+  width: 50px;
+  margin-top: 50px;
 }
 .section_for_container_right {
   display: flex;
@@ -494,17 +492,17 @@ margin-top: 50px;
   width: 100px;
   margin-top: 50px;
 }
-.section_seven{
+.section_seven {
   display: flex;
   margin-top: 210px;
 }
-.section_seven_container{
+.section_seven_container {
   display: flex;
   width: 1260px;
   height: 400px;
-  background: #2D2D2D;
+  background: #2d2d2d;
 }
-.section_seven_head{
+.section_seven_head {
   display: flex;
   color: #fff;
   font-size: 10px;
@@ -513,50 +511,46 @@ margin-top: 50px;
   margin-top: 100px;
   margin-left: 100px;
 }
-.section_seven_para{
+.section_seven_para {
   display: flex;
   margin-top: 210px;
   margin-right: 200px;
   color: #fff;
-
 }
-.section_seven_para img{
+.section_seven_para img {
   display: flex;
   width: 20px;
   height: 20px;
 }
-.section_seven_rating{
+.section_seven_rating {
   display: flex;
   color: #fff;
   margin-top: 150px;
   width: 100px;
 }
-.section_seven_rating_para{
+.section_seven_rating_para {
   display: flex;
   color: #fff;
   margin-top: 200px;
- 
- 
 }
 
-
-.section_eight{
+.section_eight {
   display: flex;
 }
-.section_eight_container{
+.section_eight_container {
   display: flex;
   width: 1260px;
   height: 70px;
   background: #141414;
 }
-.section_eight_desc{
+.section_eight_desc {
   display: flex;
   color: #fff;
   padding: 30px;
   font-size: 10px;
   margin-left: 90px;
 }
-.section_eight_desc_one{
+.section_eight_desc_one {
   display: flex;
   color: #b3acac;
   padding: 30px;
